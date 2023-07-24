@@ -1,2 +1,2 @@
-# gitworkshop
-gitworkshop
+# git-workshop
+git-workshop
